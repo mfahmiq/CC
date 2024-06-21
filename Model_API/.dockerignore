@@ -1,0 +1,18 @@
+
+# Abaikan file dan direktori Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Abaikan file atau direktori konfigurasi editor
+*.vscode/
+*.idea/
+
+# Abaikan file atau direktori lain yang tidak perlu
+.DS_Store
+*.log
+*.bak
+*.tmp
+node_modules/
+.env
